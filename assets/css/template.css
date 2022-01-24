@@ -57,7 +57,15 @@ header,section {
     /* display: flex;
     flex-direction: column; */
 }
-
+.banner {
+    max-width: 638px;
+}
 .banner img {
-    height: 300px;
+    width: 100%;
+}
+
+/* Mobile photo */
+.banner img {
+    /* height: auto;
+    width: 300px; */
 }
