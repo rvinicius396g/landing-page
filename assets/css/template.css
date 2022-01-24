@@ -26,8 +26,11 @@ header,section {
     text-align: center;
 }
 
+.logo {
+    max-width: 200px;
+}
 .logo img {
-    height: 100px;
+    width: 100%;
     margin-bottom: 20px;
 }
 
