@@ -1,0 +1,63 @@
+header,section {
+    background-color: #5c6ac4;
+}
+.container {
+    display: flex;
+    max-width: 1220px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.container .title h1 {
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    color: #fff;
+    margin: 0;
+}
+
+.container .sub-title h3 {
+    font-size: 35px;
+    color: #fff;
+    margin: 0 0;
+    font-weight: normal;
+    text-align: center;
+}
+
+.logo img {
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+.formemail {
+    margin-top: 25px;
+}
+#bemail {
+    width: 70%;
+    padding: 15px; 
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+#bgetstarted { 
+    width: 20%;
+    padding: 15px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: #30373b;
+    color: #e5e6e6;
+}
+
+.phrase p {
+    color: #fff;
+    text-align: center;
+}
+.widged {
+    /* display: flex;
+    flex-direction: column; */
+}
+
+.banner img {
+    height: 300px;
+}
