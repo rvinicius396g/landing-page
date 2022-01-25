@@ -92,3 +92,22 @@ header,section {
 .widget-footer p {
     color: #a4aeb6;
 }
+/*      MOBILE EDITION */
+@media (max-width:600px) {
+/*          EMAIL ADDRES AND BUTTON      */
+    .formemail {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    #bgetstarted {
+        width: 100%;
+        margin-top: 5px;
+
+    }
+/* WIDGET FOOTER */
+    .widget-area-footer{
+        flex-wrap: wrap;
+    }
+    
+}
