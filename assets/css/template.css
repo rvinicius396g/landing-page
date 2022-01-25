@@ -80,6 +80,9 @@ header,section {
     background-color: #fff;
     border-radius: 7px;
 }
+.widget-footer-img {
+    margin: 20px;
+}
 .widget-footer {
     padding: 5px;
 }
