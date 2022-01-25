@@ -72,3 +72,23 @@ header,section {
     /* height: auto;
     width: 300px; */
 }
+
+/*          FOOTER       */
+.widget-area-footer{
+    display: flex;
+    flex-direction: row; 
+    background-color: #fff;
+    border-radius: 7px;
+}
+.widget-footer {
+    padding: 5px;
+}
+.widget-footer h1 {
+    color: #0b1621;
+    font-size: 18px;
+    font-weight: bolder;
+    margin: 5px;
+}
+.widget-footer p {
+    color: #a4aeb6;
+}
