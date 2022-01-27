@@ -104,9 +104,12 @@ header,section {
         justify-content: center;
     }
     #bgetstarted {
-        width: 100%;
+        width: 80%;
         margin-top: 5px;
 
+    }
+    #bmail {
+        width: 80%;
     }
 /* WIDGET FOOTER */
     .widget-area-footer{
